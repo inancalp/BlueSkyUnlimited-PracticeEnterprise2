@@ -19,10 +19,7 @@
 - Integration of the AirLabs API to populate the database with precise Airport Locations.
 - Utilization of a combination of BingMaps API and AirLabs API to display relevant Airport data within the graphical layout of shipment tracking.
 - Development of shipment evaluation features to empower Logistic Coordinators in their tasks.
-
-
-## How to Run the Project
-
+  
 ## How to Run the Project
 - Clone the Project
 - Set Up XAMPP (or Other Web and Database Servers):

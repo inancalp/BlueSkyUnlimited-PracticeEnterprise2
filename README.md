@@ -58,5 +58,4 @@
             - php artisan bootstrap
             - php artisan serve --port=<selected_port>
             - npm run dev
-Following these steps should successfully set up and run your Laravel project.
 
